@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+Dockerfile
+docker-compose.yml
+.env
+.env.example
+.gitignore
+README.md
+data/
+logs/
